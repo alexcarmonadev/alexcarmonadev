@@ -8,7 +8,7 @@
 
 ## Social
 
-<a href='mailto:alexcarmonadev@gmail.com?'><img src = 'assets/images/gmail-icon-3.svg' width='45' title='Gmail' /></a> <a href='https://www.linkedin.com/in/alejandro-carmona-522339228/'><img src = 'assets/images/linkedin-icon-2.svg' width='35' title='LinkeIn' /></a> <a href='https://twitter.com/alexcarmonadev'><img src = 'assets/images/twitter.svg' width='40' title='Twitter'  /></a> <a href='https://www.instagram.com/alexcarmonadev'><img src = 'assets/images/instagram.svg' width='40' title='Instagram'  /></a> <a href='https://www.frontendmentor.io/profile/alexcarmonadev'><img src = 'assets/images/frontend-mentor.png' width='35' title='Frontend Mentor'  /></a>
+<a href='mailto:alexcarmonadev@gmail.com?'><img src = 'assets/images/gmail-icon-3.svg' width='45' title='Gmail' /></a> <a href='https://www.linkedin.com/in/alejandro-carmona-522339228/'><img src = 'assets/images/linkedin-icon-2.svg' width='35' title='LinkeIn' /></a> <a href='https://twitter.com/alexcarmonadev'><img src = 'assets/images/twitter.svg' width='40' title='Twitter'  /></a> <a href='https://www.instagram.com/alexcarmonadev'><img src = 'assets/images/instagram.svg' width='35' title='Instagram'  /></a> <a href='https://www.frontendmentor.io/profile/alexcarmonadev'><img src = 'assets/images/frontend-mentor.png' width='35' title='Frontend Mentor'  /></a>
 
 ## Hello World
 
